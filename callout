@@ -2,11 +2,11 @@
 
 
 .callout {
-  position: fixed;
+  position: relative;
   bottom: 35px;
   right: 20px;
   margin-left: 20px;
-  max-width: 300px;
+  max-width: 400px;
 }
 
 /* Callout header */
@@ -14,7 +14,7 @@
   padding: 25px 15px;
   background: rgb(197, 163, 50);
   font-size: 30px;
-  color: white;
+  color: red;
 }
 
 /* Callout container/body */
